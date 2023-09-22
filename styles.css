@@ -11,12 +11,19 @@
     background-color: red;
 }
 
+.title.ramen {
+    color: yellow;
+    background-color: rgb(116, 76, 76);
+}
+
+.title.tacos {
+    color: rgb(82, 71, 9);
+    background-color: rgb(38, 161, 38);
+}
+
 .para {
     font-family: 'Times New Roman', Verdana, sans-serif;
     font-size: 30px;
 
 }
 
-.imgenchi {
-    text-align: center;
-}
