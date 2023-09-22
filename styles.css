@@ -1,0 +1,22 @@
+.title {
+    font-family: 'Times New Roman', Verdana, sans-serif;
+    font-size:50px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.title.enchilada {
+    color: black;
+    background-color: red;
+}
+
+.para {
+    font-family: 'Times New Roman', Verdana, sans-serif;
+    font-size: 30px;
+
+}
+
+.imgenchi {
+    text-align: center;
+}
