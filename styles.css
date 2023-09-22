@@ -6,6 +6,12 @@
 
 }
 
+.title.main {
+    color: blue;
+    background-color: black;
+
+}
+
 .title.enchilada {
     color: black;
     background-color: red;
@@ -26,4 +32,17 @@
     font-size: 30px;
 
 }
+
+.para.enchilada,
+.para.tacos {
+    color: white;
+    background-color: red;
+}
+
+.homelinks {
+    color: red;
+    background-color: pink;
+}
+
+
 
